@@ -1,0 +1,27 @@
+# 编译产物
+*.o
+*.obj
+*.exe
+*.out
+
+# Dev-C++ / Code::Blocks
+*.dev
+*.layout
+*.depend
+*.cbp
+*.dsp
+*.dsw
+
+# Visual Studio
+.vs/
+Debug/
+Release/
+*.pdb
+*.ilk
+*.vcxproj.user
+
+# 编辑器 / 系统杂项
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
