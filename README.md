@@ -33,3 +33,4 @@ g++ guess.cpp -o guess
 | 存一版 | `git add -A` && `git commit -m "说明"` |
 | 传上去 | `git push` |
 | 拿新的 | `git pull` |
+第一次
