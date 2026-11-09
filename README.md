@@ -20,7 +20,7 @@ g++ guess.cpp -o guess
 - [x] 本地建仓库（`git init`）
 - [x] 第一次提交（`git add` + `git commit`）
 - [x] 推到 GitHub（`git remote add` + `git push`）
-- [ ] 在网页上直接改一次 README，然后 `git pull` 拉回本地
+- [x] 在网页上直接改一次 README，然后 `git pull` 拉回本地
 - [ ] 开一个分支，改点东西，再合回 main
 - [ ] 给别人的项目提一次 Pull Request
 
@@ -33,4 +33,4 @@ g++ guess.cpp -o guess
 | 存一版 | `git add -A` && `git commit -m "说明"` |
 | 传上去 | `git push` |
 | 拿新的 | `git pull` |
-第一次
+> 2026-11-09：第一次在网页上编辑 README，commit 之后在本地用 `git pull` 拉了回来。
